@@ -1,0 +1,8 @@
+body {
+    width:8rem;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color:bisque;
+  }
+  

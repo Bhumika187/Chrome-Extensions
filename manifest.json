@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Title Extractor",
+    "version": "1.0",
+    "description": "Extracts the title of the current tab.",
+    "permissions": ["activeTab"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "anime16.png",
+        "48": "anime48.png",
+        "128": "anime128.png"
+      }
+    },
+    "icons": {
+        "16": "anime16.png",
+        "48": "anime48.png",
+        "128": "anime128.png"
+    }
+  }
+  
